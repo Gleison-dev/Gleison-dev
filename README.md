@@ -8,3 +8,5 @@
 * Apaixonado por tudo que envolve tecnologia
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gleison-dev&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gleison-dev)
